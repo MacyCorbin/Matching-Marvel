@@ -4,7 +4,7 @@ import "./Footer.css";
 
 const Footer = () => (
 	<header className = "footer">
-		<a  className = "text" href=" ">Macy's GitHub</a>
+		<a  className = "text" href="https://github.com/MacyCorbin/Matching-Marvel.git">Macy's GitHub</a>
 	</header>
 );
 
