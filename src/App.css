@@ -14,7 +14,7 @@
     /* height: 170%;  */
     display: flex;
     flex-flow: row wrap;
-    padding: 50px 0px 50px 2.5%; 
+    padding: 0px 0px 50px 2.5%; 
     width: 95%;
     justify-content: space-around; 
     align-content: flex-start;
