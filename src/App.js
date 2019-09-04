@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import cards from "./cards.json";
 import "./App.css";
+import Music from './components/Music/Music'
 
 
 class App extends Component {
@@ -83,8 +84,8 @@ class App extends Component {
         <div className="contents">
 
         {/* Header.js component */}
-          <Header score={this.state.score} highscore={this.state.highscore}>Super Sort</Header>
-          
+          <Header score={this.state.score} highscore={this.state.highscore}>Marvel Mix</Header>
+          <Music></Music>
           {/* container class creates styling for the rows of cards */}
           <div className="container">
           
